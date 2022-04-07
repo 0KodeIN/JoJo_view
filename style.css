@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    display: flex;
+    height: 200px;
+}
+h1{
+    font-size: 40px;
+    padding: 2vw 5vw;
+    color: aqua;
+    
+}
+.input-search{
+    height: 20px;
+}
+.search{
+    position: absolute;
+    top: 0;
+    right: 50px;
+    height: 20px;
+    margin-top: 40px;
+}
+.navigation{
+    margin-top: 40px;
+    display: flex;
+}
+.border{
+    width: 8vw;
+    border: 2px solid aqua;
+    height: 22px;
+    margin-right: 1vw;
+}
+.a-nav{
+    text-decoration: none;
+    color: aqua;
+    margin-left: 2vw;
+}
+.btn-search{
+    text-decoration: none;
+    color: aqua;
+}
+.video{
+    width: 37vw;
+    height: 290px;
+    margin: 2vw 2vw;
+}
