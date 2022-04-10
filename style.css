@@ -48,3 +48,15 @@ h1{
     height: 290px;
     margin: 2vw 2vw;
 }
+.vue-img{
+    width: 30vw;
+}
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    margin-top: 5vw;
+}
+.sezon1{
+    margin-left: 2.5vw;
+}
