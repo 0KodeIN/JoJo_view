@@ -7,6 +7,8 @@ header{
     background-color: black;
     display: flex;
     height: 200px;
+    width: 100%;
+    margin-bottom: 2vw;
 }
 h1{
     font-size: 40px;
@@ -44,19 +46,22 @@ h1{
     color: aqua;
 }
 .video{
-    width: 37vw;
+    width: 50vw;
     height: 290px;
-    margin: 2vw 2vw;
+    margin: 5vw auto;
 }
 .vue-img{
     width: 30vw;
+    border: 2px solid aqua;
 }
 .app{
     display: flex;
     flex-wrap: wrap;
-    width: 100vw;
-    margin-top: 5vw;
+    width: 93%;
+    margin: 0 auto;
+    justify-content: space-between;
 }
 .sezon1{
-    margin-left: 2.5vw;
+    margin-bottom: 1vw;
+    
 }
